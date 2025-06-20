@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Run all CNN experiments and compile results
 """

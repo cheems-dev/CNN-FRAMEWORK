@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 SimpsonsMNIST CNN Classification
 Dataset: https://github.com/alvarobartt/simpsons-mnist

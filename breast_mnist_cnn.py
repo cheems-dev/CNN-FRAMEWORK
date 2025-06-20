@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 BreastMNIST CNN Classification
 Dataset: https://medmnist.com/

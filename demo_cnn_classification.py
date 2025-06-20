@@ -1,7 +1,5 @@
-#!/usr/bin/env python3
 """
 Demo CNN Classification for three datasets with sample results
-This demonstrates the expected output and methodology for the requested classification tasks.
 """
 
 import numpy as np
